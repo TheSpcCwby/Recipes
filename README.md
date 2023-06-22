@@ -1,5 +1,5 @@
 # Recipes
 
-This is a website about cooking recipes
+This is a website about cooking recipes (Mostly Fried Rice)
 
-I hope to further improve my basic knowledge of html through this project
+Link: https://thespccwby.github.io/Recipes/
